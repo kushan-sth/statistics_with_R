@@ -19,3 +19,5 @@ This location contains html files of the projects created using R Studio. The re
    The same dataset used above is now analyzed using Bayesian inference. BAS package by Prof. Merlise Clyde [https://merliseclyde.github.io/BAS/](https://merliseclyde.github.io/BAS/) is used.
    
 5. [Capstone project](https://kushan-sth.github.io/statistics_with_R/Final_project.html)
+
+   This is the final project in this specialization. This final project was preceded by an EDA. However, it is not incuded here because this project starts off with an EDA. The project is based on the famous **Ames Housing** data set.
